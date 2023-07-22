@@ -1,0 +1,8 @@
+{
+    "type": 1,
+    "invocationId": "123",
+    "target": "Join",
+    "arguments": ["hi"]
+}
+
+{"protocol":"json","version":1}

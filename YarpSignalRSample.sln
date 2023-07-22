@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{ADB87F81-D798-401A-BA56-864D2EB22D16}"
+	ProjectSection(SolutionItems) = preProject
+		src\MessagesForTestingUsingPostman.txt = src\MessagesForTestingUsingPostman.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarpSignalRSample.ReverseProxy", "src\YarpSignalRSample.ReverseProxy\YarpSignalRSample.ReverseProxy.csproj", "{4E808C29-16FC-4A7E-8E76-CB57FD0B2E11}"
 EndProject
